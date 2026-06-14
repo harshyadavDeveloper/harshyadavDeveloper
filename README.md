@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 * 🔭 Currently working on **Smart Date Formatter**
-* 🌱 Learning **Flutter & Data Structures**
+* 🚀 Flutter Developer — building production apps used by 5,000+ monthly users. Published 2 packages on pub.dev
 * 💬 Ask me about **Flutter, React, Node.js**
 * 📫 Reach me at **[harshyadav5939@gmail.com](mailto:harshyadav5939@gmail.com)**
 * 🌐 Portfolio: https://harsh-myportfolio.netlify.app/
